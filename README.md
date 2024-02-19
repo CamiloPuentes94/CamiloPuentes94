@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=camilopuentes94.camilopuentes94)
 
 <!--
 **CamiloPuentes94/CamiloPuentes94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
