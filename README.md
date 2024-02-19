@@ -1,4 +1,4 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CamiloPuentes94.CamiloPuentes94)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=camilopuentes94.camilopuentes94)
 ### Hola soy [Juan Camilo Puentes](https://www.linkedin.com/in/juan-camilo-puentes-sandoval/) - Desarrollador web👋
 
 desarrollador full-stack<br>Ingeniero Mecatrónico👌<br>Me encanta dia dia seguir superandome como profesional<br>
