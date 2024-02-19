@@ -5,7 +5,7 @@
 desarrollador full-stack<br>Ingeniero Mecatrónico👌<br>Me encanta dia dia seguir superandome como profesional<br>
 
 ## 🌐 Redes Sociales:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jcamilo_puentes13)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jcamilo_puentes13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-puentes-sandoval/) 
 
 
 
