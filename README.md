@@ -1,5 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Camilopuentes94&icon=0&color=12)](https://visitcount.itsvg.in)
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CamiloPuentes94.CamiloPuentes94)
 ### Hola soy [Juan Camilo Puentes](https://www.linkedin.com/in/juan-camilo-puentes-sandoval/) - Desarrollador web👋
 
 desarrollador full-stack<br>Ingeniero Mecatrónico👌<br>Me encanta dia dia seguir superandome como profesional<br>
