@@ -2,7 +2,10 @@
 
 ### Hola soy [Juan Camilo Puentes](https://www.linkedin.com/in/juan-camilo-puentes-sandoval/) - Desarrollador web👋
 
-desarrollador full-stack<br><br>Ingeniero Mecatrónico👌<br><br>Me encanta dia dia seguir superandome como profesional<br>
+desarrollador full-stack<br>Ingeniero Mecatrónico👌<br>Me encanta dia dia seguir superandome como profesional<br>
+
+## 🌐 Redes Sociales:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jcamilo_puentes13_)
 
 
 
